@@ -61,7 +61,7 @@ function App() {
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route path="/project/:id" element={<ProjectPageLayout />} />
-        <Route path="*" element={<LandingPage />} />
+        <Route path="*" element={<NotFoundPage />} />
       </Routes>
     </BrowserRouter>
   );
