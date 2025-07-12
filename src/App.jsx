@@ -59,7 +59,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<LandingPage />} />
+        <Route path="/Aryan-Nahata-Portfolio/" element={<LandingPage />} />
         <Route path="/project/:id" element={<ProjectPageLayout />} />
         <Route path="*" element={<NotFoundPage />} />
       </Routes>
