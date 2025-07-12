@@ -2,120 +2,120 @@
   "hash": "7df17974",
   "configHash": "a791b84d",
   "lockfileHash": "ddf5069d",
-  "browserHash": "8ca5c7c8",
+  "browserHash": "18609fae",
   "optimized": {
     "react": {
       "src": "../../node_modules/react/index.js",
       "file": "react.js",
-      "fileHash": "f4df553a",
+      "fileHash": "cf828398",
       "needsInterop": true
     },
     "react-dom/client": {
       "src": "../../node_modules/react-dom/client.js",
       "file": "react-dom_client.js",
-      "fileHash": "1c0fdfe5",
+      "fileHash": "4449ed59",
       "needsInterop": true
     },
     "react-router-dom": {
       "src": "../../node_modules/react-router-dom/dist/index.mjs",
       "file": "react-router-dom.js",
-      "fileHash": "0be547cf",
+      "fileHash": "fd5fed46",
       "needsInterop": false
     },
     "lucide-react": {
       "src": "../../node_modules/lucide-react/dist/esm/lucide-react.js",
       "file": "lucide-react.js",
-      "fileHash": "755e6174",
-      "needsInterop": false
-    },
-    "@lottiefiles/dotlottie-react": {
-      "src": "../../node_modules/@lottiefiles/dotlottie-react/dist/browser/index.js",
-      "file": "@lottiefiles_dotlottie-react.js",
-      "fileHash": "ca83f842",
-      "needsInterop": false
-    },
-    "react-icons/si": {
-      "src": "../../node_modules/react-icons/si/index.mjs",
-      "file": "react-icons_si.js",
-      "fileHash": "456c3725",
+      "fileHash": "70c350ee",
       "needsInterop": false
     },
     "aos": {
       "src": "../../node_modules/aos/dist/aos.js",
       "file": "aos.js",
-      "fileHash": "4d18feba",
+      "fileHash": "5e7bca68",
       "needsInterop": true
     },
     "sweetalert2": {
       "src": "../../node_modules/sweetalert2/dist/sweetalert2.esm.all.js",
       "file": "sweetalert2.js",
-      "fileHash": "be07b6b4",
+      "fileHash": "e68dc280",
       "needsInterop": false
     },
-    "axios": {
-      "src": "../../node_modules/axios/index.js",
-      "file": "axios.js",
-      "fileHash": "53b7411a",
+    "@lottiefiles/dotlottie-react": {
+      "src": "../../node_modules/@lottiefiles/dotlottie-react/dist/browser/index.js",
+      "file": "@lottiefiles_dotlottie-react.js",
+      "fileHash": "04483450",
+      "needsInterop": false
+    },
+    "react-icons/si": {
+      "src": "../../node_modules/react-icons/si/index.mjs",
+      "file": "react-icons_si.js",
+      "fileHash": "53abbdf1",
       "needsInterop": false
     },
     "prop-types": {
       "src": "../../node_modules/prop-types/index.js",
       "file": "prop-types.js",
-      "fileHash": "265ca626",
+      "fileHash": "2264af87",
       "needsInterop": true
     },
     "@mui/material/styles": {
       "src": "../../node_modules/@mui/material/esm/styles/index.js",
       "file": "@mui_material_styles.js",
-      "fileHash": "942c16fd",
+      "fileHash": "b60426c7",
       "needsInterop": false
     },
     "@mui/material/AppBar": {
       "src": "../../node_modules/@mui/material/esm/AppBar/index.js",
       "file": "@mui_material_AppBar.js",
-      "fileHash": "4f7dd2a5",
+      "fileHash": "417b9d55",
       "needsInterop": false
     },
     "@mui/material/Tabs": {
       "src": "../../node_modules/@mui/material/esm/Tabs/index.js",
       "file": "@mui_material_Tabs.js",
-      "fileHash": "31d6a49c",
+      "fileHash": "95a10a4b",
       "needsInterop": false
     },
     "@mui/material/Tab": {
       "src": "../../node_modules/@mui/material/esm/Tab/index.js",
       "file": "@mui_material_Tab.js",
-      "fileHash": "727d841a",
+      "fileHash": "dd7bd7a9",
       "needsInterop": false
     },
     "@mui/material/Typography": {
       "src": "../../node_modules/@mui/material/esm/Typography/index.js",
       "file": "@mui_material_Typography.js",
-      "fileHash": "d56bde83",
+      "fileHash": "3c22d495",
       "needsInterop": false
     },
     "@mui/material/Box": {
       "src": "../../node_modules/@mui/material/esm/Box/index.js",
       "file": "@mui_material_Box.js",
-      "fileHash": "bcd59f1a",
+      "fileHash": "455a9d50",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "b5b0b509",
       "needsInterop": false
     },
     "@mui/material": {
       "src": "../../node_modules/@mui/material/esm/index.js",
       "file": "@mui_material.js",
-      "fileHash": "aaf25286",
+      "fileHash": "6f5b0272",
       "needsInterop": false
     },
     "@mui/icons-material/Close": {
       "src": "../../node_modules/@mui/icons-material/esm/Close.js",
       "file": "@mui_icons-material_Close.js",
-      "fileHash": "c06a8bb3",
+      "fileHash": "95aee46c",
       "needsInterop": false
     },
     "@mui/icons-material/Fullscreen": {
       "src": "../../node_modules/@mui/icons-material/esm/Fullscreen.js",
       "file": "@mui_icons-material_Fullscreen.js",
-      "fileHash": "5b064ce7",
+      "fileHash": "b6c2c70f",
       "needsInterop": false
     }
   },
