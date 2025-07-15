@@ -1,13 +1,4 @@
 import {
-  AppBar_default,
-  Paper_default,
-  appBarClasses_default,
-  getAppBarUtilityClass,
-  getPaperUtilityClass,
-  integerPropType_default,
-  paperClasses_default
-} from "./chunk-VTID7SKA.js";
-import {
   KeyboardArrowLeft_default,
   KeyboardArrowRight_default,
   TabScrollButton_default,
@@ -20,7 +11,37 @@ import {
   tabsClasses_default,
   useSlot,
   useSlotProps_default
-} from "./chunk-LEHPSOFD.js";
+} from "./chunk-D7ZHJYTC.js";
+import {
+  Tab_default,
+  getTabUtilityClass,
+  tabClasses_default
+} from "./chunk-5ZOL2TMA.js";
+import {
+  ButtonBase_default,
+  Timeout,
+  Transition_default,
+  buttonBaseClasses_default,
+  elementTypeAcceptingRef_default,
+  getButtonBaseUtilityClass,
+  getTouchRippleUtilityClass,
+  isFocusVisible,
+  refType_default,
+  touchRippleClasses_default,
+  useTimeout
+} from "./chunk-VES7ZUNK.js";
+import {
+  require_react_dom
+} from "./chunk-5HNGYYSW.js";
+import {
+  Typography_default,
+  getTypographyUtilityClass,
+  typographyClasses_default
+} from "./chunk-WHX52UGU.js";
+import {
+  Box_default,
+  boxClasses_default
+} from "./chunk-2UV64U4U.js";
 import {
   SvgIcon_default,
   createChainedFunction,
@@ -47,52 +68,12 @@ import {
   useId_default
 } from "./chunk-I2USKLCH.js";
 import {
-  Tab_default,
-  getTabUtilityClass,
-  tabClasses_default
-} from "./chunk-E7X7IH6Y.js";
-import {
-  ButtonBase_default,
-  Timeout,
-  Transition_default,
-  buttonBaseClasses_default,
-  elementTypeAcceptingRef_default,
-  getButtonBaseUtilityClass,
-  getTouchRippleUtilityClass,
-  isFocusVisible,
-  refType_default,
-  touchRippleClasses_default,
-  useTimeout
-} from "./chunk-NI2U3A6V.js";
-import {
   unsupportedProp_default,
   useEventCallback_default,
   useEventCallback_default2,
   useForkRef,
   useForkRef_default
 } from "./chunk-WMVEFSM3.js";
-import {
-  chainPropTypes
-} from "./chunk-JX37XSKT.js";
-import {
-  Typography_default,
-  getTypographyUtilityClass,
-  typographyClasses_default
-} from "./chunk-WHX52UGU.js";
-import {
-  createSimplePaletteValueFilter
-} from "./chunk-G4FQZWC4.js";
-import {
-  GlobalStyles_default,
-  capitalize_default,
-  globalCss,
-  memoTheme_default,
-  useDefaultProps
-} from "./chunk-4WHXHKA5.js";
-import {
-  Box_default,
-  boxClasses_default
-} from "./chunk-2UV64U4U.js";
 import {
   CssVarsProvider,
   Experimental_CssVarsProvider,
@@ -113,6 +94,28 @@ import {
   withStyles,
   withTheme
 } from "./chunk-WERNYUTL.js";
+import {
+  AppBar_default,
+  Paper_default,
+  appBarClasses_default,
+  getAppBarUtilityClass,
+  getPaperUtilityClass,
+  integerPropType_default,
+  paperClasses_default
+} from "./chunk-VTID7SKA.js";
+import {
+  chainPropTypes
+} from "./chunk-JX37XSKT.js";
+import {
+  createSimplePaletteValueFilter
+} from "./chunk-G4FQZWC4.js";
+import {
+  GlobalStyles_default,
+  capitalize_default,
+  globalCss,
+  memoTheme_default,
+  useDefaultProps
+} from "./chunk-4WHXHKA5.js";
 import {
   StyledEngineProvider,
   alpha,
@@ -176,9 +179,6 @@ import {
 import {
   require_prop_types
 } from "./chunk-Q42JOI7M.js";
-import {
-  require_react_dom
-} from "./chunk-5HNGYYSW.js";
 import {
   require_jsx_runtime
 } from "./chunk-FT54CQ4H.js";

@@ -5,12 +5,12 @@ import "aos/dist/aos.css";
 
 const educationData = [
   {
-    degree: "B.Tech",
-    institute: "Birla Institute of Technology, Mesra",
-    board: "Bachelor of Technology",
-    branch: "Artificial Intelligence and Machine Learning",
-    marks: "8.9 CGPA",
-    year: "2027",
+    degree: "Secondary",
+    institute: "Metas Adventist School",
+    board: "ICSE",
+    branch: "Class 10",
+    marks: "93.4%",
+    year: "2021",
   },
   {
     degree: "Higher Secondary",
@@ -21,12 +21,12 @@ const educationData = [
     year: "2023",
   },
   {
-    degree: "Secondary",
-    institute: "Metas Adventist School",
-    board: "ICSE",
-    branch: "Class 10",
-    marks: "93.4%",
-    year: "2021",
+    degree: "B.Tech",
+    institute: "Birla Institute of Technology, Mesra",
+    board: "Bachelor of Technology",
+    branch: "Artificial Intelligence and Machine Learning",
+    marks: "8.9 CGPA",
+    year: "2027",
   },
 ];
 

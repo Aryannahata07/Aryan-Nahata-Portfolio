@@ -1,4 +1,7 @@
 import {
+  require_react_dom
+} from "./chunk-5HNGYYSW.js";
+import {
   useEventCallback_default2 as useEventCallback_default,
   useForkRef_default
 } from "./chunk-WMVEFSM3.js";
@@ -19,9 +22,6 @@ import {
 import {
   require_prop_types
 } from "./chunk-Q42JOI7M.js";
-import {
-  require_react_dom
-} from "./chunk-5HNGYYSW.js";
 import {
   require_jsx_runtime
 } from "./chunk-FT54CQ4H.js";
@@ -2291,4 +2291,4 @@ export {
   buttonBaseClasses_default,
   ButtonBase_default
 };
-//# sourceMappingURL=chunk-NI2U3A6V.js.map
+//# sourceMappingURL=chunk-VES7ZUNK.js.map

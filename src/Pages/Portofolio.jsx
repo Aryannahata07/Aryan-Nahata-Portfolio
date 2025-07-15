@@ -126,7 +126,8 @@ const certificates = [
   { id: 1, Img: "/frontend-Coursera-Meta.jpg" },
   { id: 2, Img: "/Python-Coursera-Google.jpg" },
   { id: 3, Img: "/Generative-AI-certificate.jpg" },
-  { id: 4, Img: "/Computer-Vision-certificate.jpg" },
+  { id: 4, Img: "/Tensorflow-course-certificate.jpg" },
+  { id: 5, Img: "/Computer-Vision-certificate.jpg" },
   // Add more...
 ];
 
