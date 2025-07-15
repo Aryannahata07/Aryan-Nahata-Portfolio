@@ -2,120 +2,120 @@
   "hash": "7df17974",
   "configHash": "a791b84d",
   "lockfileHash": "ddf5069d",
-  "browserHash": "18609fae",
+  "browserHash": "8ca5c7c8",
   "optimized": {
     "react": {
       "src": "../../node_modules/react/index.js",
       "file": "react.js",
-      "fileHash": "cf828398",
+      "fileHash": "a5f05725",
       "needsInterop": true
     },
     "react-dom/client": {
       "src": "../../node_modules/react-dom/client.js",
       "file": "react-dom_client.js",
-      "fileHash": "4449ed59",
+      "fileHash": "64ce49c7",
       "needsInterop": true
     },
     "react-router-dom": {
       "src": "../../node_modules/react-router-dom/dist/index.mjs",
       "file": "react-router-dom.js",
-      "fileHash": "fd5fed46",
+      "fileHash": "96d681b4",
       "needsInterop": false
     },
     "lucide-react": {
       "src": "../../node_modules/lucide-react/dist/esm/lucide-react.js",
       "file": "lucide-react.js",
-      "fileHash": "70c350ee",
-      "needsInterop": false
-    },
-    "aos": {
-      "src": "../../node_modules/aos/dist/aos.js",
-      "file": "aos.js",
-      "fileHash": "5e7bca68",
-      "needsInterop": true
-    },
-    "sweetalert2": {
-      "src": "../../node_modules/sweetalert2/dist/sweetalert2.esm.all.js",
-      "file": "sweetalert2.js",
-      "fileHash": "e68dc280",
+      "fileHash": "65ac79a5",
       "needsInterop": false
     },
     "@lottiefiles/dotlottie-react": {
       "src": "../../node_modules/@lottiefiles/dotlottie-react/dist/browser/index.js",
       "file": "@lottiefiles_dotlottie-react.js",
-      "fileHash": "04483450",
+      "fileHash": "ad050851",
       "needsInterop": false
     },
     "react-icons/si": {
       "src": "../../node_modules/react-icons/si/index.mjs",
       "file": "react-icons_si.js",
-      "fileHash": "53abbdf1",
+      "fileHash": "1b39c15a",
       "needsInterop": false
     },
-    "prop-types": {
-      "src": "../../node_modules/prop-types/index.js",
-      "file": "prop-types.js",
-      "fileHash": "2264af87",
+    "aos": {
+      "src": "../../node_modules/aos/dist/aos.js",
+      "file": "aos.js",
+      "fileHash": "1542e8bb",
       "needsInterop": true
     },
-    "@mui/material/styles": {
-      "src": "../../node_modules/@mui/material/esm/styles/index.js",
-      "file": "@mui_material_styles.js",
-      "fileHash": "b60426c7",
-      "needsInterop": false
-    },
-    "@mui/material/AppBar": {
-      "src": "../../node_modules/@mui/material/esm/AppBar/index.js",
-      "file": "@mui_material_AppBar.js",
-      "fileHash": "417b9d55",
-      "needsInterop": false
-    },
-    "@mui/material/Tabs": {
-      "src": "../../node_modules/@mui/material/esm/Tabs/index.js",
-      "file": "@mui_material_Tabs.js",
-      "fileHash": "95a10a4b",
-      "needsInterop": false
-    },
-    "@mui/material/Tab": {
-      "src": "../../node_modules/@mui/material/esm/Tab/index.js",
-      "file": "@mui_material_Tab.js",
-      "fileHash": "dd7bd7a9",
-      "needsInterop": false
-    },
-    "@mui/material/Typography": {
-      "src": "../../node_modules/@mui/material/esm/Typography/index.js",
-      "file": "@mui_material_Typography.js",
-      "fileHash": "3c22d495",
-      "needsInterop": false
-    },
-    "@mui/material/Box": {
-      "src": "../../node_modules/@mui/material/esm/Box/index.js",
-      "file": "@mui_material_Box.js",
-      "fileHash": "455a9d50",
+    "sweetalert2": {
+      "src": "../../node_modules/sweetalert2/dist/sweetalert2.esm.all.js",
+      "file": "sweetalert2.js",
+      "fileHash": "71edb7dc",
       "needsInterop": false
     },
     "axios": {
       "src": "../../node_modules/axios/index.js",
       "file": "axios.js",
-      "fileHash": "b5b0b509",
+      "fileHash": "10ff8027",
+      "needsInterop": false
+    },
+    "prop-types": {
+      "src": "../../node_modules/prop-types/index.js",
+      "file": "prop-types.js",
+      "fileHash": "ba271e38",
+      "needsInterop": true
+    },
+    "@mui/material/styles": {
+      "src": "../../node_modules/@mui/material/esm/styles/index.js",
+      "file": "@mui_material_styles.js",
+      "fileHash": "e83700ec",
+      "needsInterop": false
+    },
+    "@mui/material/AppBar": {
+      "src": "../../node_modules/@mui/material/esm/AppBar/index.js",
+      "file": "@mui_material_AppBar.js",
+      "fileHash": "250ad57b",
+      "needsInterop": false
+    },
+    "@mui/material/Tabs": {
+      "src": "../../node_modules/@mui/material/esm/Tabs/index.js",
+      "file": "@mui_material_Tabs.js",
+      "fileHash": "fec7131a",
+      "needsInterop": false
+    },
+    "@mui/material/Tab": {
+      "src": "../../node_modules/@mui/material/esm/Tab/index.js",
+      "file": "@mui_material_Tab.js",
+      "fileHash": "ff3b75a4",
+      "needsInterop": false
+    },
+    "@mui/material/Typography": {
+      "src": "../../node_modules/@mui/material/esm/Typography/index.js",
+      "file": "@mui_material_Typography.js",
+      "fileHash": "8a928a85",
+      "needsInterop": false
+    },
+    "@mui/material/Box": {
+      "src": "../../node_modules/@mui/material/esm/Box/index.js",
+      "file": "@mui_material_Box.js",
+      "fileHash": "079c0e98",
       "needsInterop": false
     },
     "@mui/material": {
       "src": "../../node_modules/@mui/material/esm/index.js",
       "file": "@mui_material.js",
-      "fileHash": "6f5b0272",
+      "fileHash": "541508a9",
       "needsInterop": false
     },
     "@mui/icons-material/Close": {
       "src": "../../node_modules/@mui/icons-material/esm/Close.js",
       "file": "@mui_icons-material_Close.js",
-      "fileHash": "95aee46c",
+      "fileHash": "156126eb",
       "needsInterop": false
     },
     "@mui/icons-material/Fullscreen": {
       "src": "../../node_modules/@mui/icons-material/esm/Fullscreen.js",
       "file": "@mui_icons-material_Fullscreen.js",
-      "fileHash": "b6c2c70f",
+      "fileHash": "7b6a5cf1",
       "needsInterop": false
     }
   },

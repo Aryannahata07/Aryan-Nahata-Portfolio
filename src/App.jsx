@@ -6,7 +6,7 @@ import About from "./Pages/About";
 import AnimatedBackground from "./components/Background";
 import Navbar from "./components/Navbar";
 import Education from "./Pages/Education";
-import Portofolio from "./Pages/Portfolio";
+import Portofolio from "./Pages/Portofolio";
 import ContactPage from "./Pages/Contact";
 import ProjectDetails from "./components/ProjectDetail";
 import NotFoundPage from "./Pages/404";
@@ -59,7 +59,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/Aryan-Nahata-Portfolio/" element={<LandingPage />} />
+        <Route path="/" element={<LandingPage />} />
         <Route path="/project/:id" element={<ProjectPageLayout />} />
         <Route path="*" element={<NotFoundPage />} />
       </Routes>
